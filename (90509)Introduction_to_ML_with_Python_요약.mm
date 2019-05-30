@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1556524089313" ID="ID_32878434" MODIFIED="1556524162376" TEXT="Study&#xac1c;&#xc694;">
+<node CREATED="1556524089313" ID="ID_32878434" MODIFIED="1558002402564" TEXT="&#xcc45; &#xc694;&#xc57d;">
 <node CREATED="1557381632985" ID="ID_628567115" MODIFIED="1557392122261" POSITION="right" TEXT="0. &#xd2b9;&#xc9d5;">
 <node CREATED="1557381637774" ID="ID_1967549103" MODIFIED="1557381646690" TEXT="&#xd1b5;&#xacc4;&#xc801; &#xc9c0;&#xc2dd;&#xc744; &#xcd94;&#xc0c1;&#xd654; &#xc2dc;&#xcf30;&#xb2e4;">
 <node CREATED="1557381658097" ID="ID_732594871" MODIFIED="1557381679016" TEXT="R^2&#xb85c; &#xbaa8;&#xb378;&#xc758;&#xc131;&#xb2a5;&#xc744; &#xd3c9;&#xac00;"/>
